@@ -91,4 +91,4 @@ npm run build
 - All logic is client-side JavaScript.
 
 ## License
-MIT
+AVISHKACODEX
